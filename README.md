@@ -2,7 +2,7 @@
 
 This repository contains code for the AISTATS 2025 paper: [A Unified Evaluation Framework for Epistemic Predictions](https://arxiv.org/abs/2501.16912).
 
----
+
 ## 📄 Abstract
 Predictions of uncertainty-aware models are diverse, ranging from single point estimates (often averaged over prediction samples) to predictive distributions, to set-valued or credal-set representations.  
 
@@ -33,7 +33,7 @@ Use the eval_epistemic_preds.ipynb notebook to compute the Evaluation Metric.
 jupyter notebook eval_epistemic_preds.ipynb
 ```
 
---
+---
 
 ### **📊 Experiments & Datasets**
 The framework has been evaluated on the following datasets:
