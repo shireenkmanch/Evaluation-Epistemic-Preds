@@ -33,6 +33,8 @@ Use the eval_epistemic_preds.ipynb notebook to compute the Evaluation Metric.
 jupyter notebook eval_epistemic_preds.ipynb
 ```
 
+--
+
 ### **📊 Experiments & Datasets**
 The framework has been evaluated on the following datasets:
 - **CIFAR-10**
