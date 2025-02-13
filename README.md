@@ -1,8 +1,8 @@
 # A Unified Evaluation Framework for Epistemic Predictions
 
-This repository contains code for the AISTATS 2025 paper:  
-[A Unified Evaluation Framework for Epistemic Predictions](https://arxiv.org/abs/2501.16912).
+This repository contains code for the AISTATS 2025 paper: [A Unified Evaluation Framework for Epistemic Predictions](https://arxiv.org/abs/2501.16912).
 
+---
 ## 📄 Abstract
 Predictions of uncertainty-aware models are diverse, ranging from single point estimates (often averaged over prediction samples) to predictive distributions, to set-valued or credal-set representations.  
 
@@ -48,6 +48,7 @@ The experiments include evaluations on:
 - **Belief function classifiers**
 
 ### **📂 Repository Structure**
+```
 📂 root
 │-- 📄 README.md             # This README file
 │-- 📜 environment.yml       # Conda environment setup file
@@ -55,7 +56,9 @@ The experiments include evaluations on:
 │   ├── eval_epistemic_preds.ipynb
 │-- 📁 src/                  # Source code for evaluation framework
 │-- 📁 data/                 # Sample datasets
+```
 
+---
 ### **📢 Citation**
 If you use this code, please cite our paper:
 
@@ -70,8 +73,10 @@ url={https://openreview.net/forum?id=kXC0Sdf8KN}
 }
 ```
 
+---
 ### **📬 Contact**
 For questions or issues, feel free to open an issue or contact the [author](shireenmohammed67@gmail.com).
 
+---
 ### **⭐ Acknowledgments**
 This research has received funding from the European Union’s Horizon 2020 Research and Innovation program under Grant Agreement No. 964505 (E-pi).
