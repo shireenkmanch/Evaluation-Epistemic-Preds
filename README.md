@@ -1,6 +1,6 @@
 # A Unified Evaluation Framework for Epistemic Predictions
 
-This repository contains code for the AISTATS 2025 paper: [A Unified Evaluation Framework for Epistemic Predictions](https://arxiv.org/abs/2501.16912).
+This repository contains code for the **AISTATS 2025** paper: [A Unified Evaluation Framework for Epistemic Predictions](https://arxiv.org/abs/2501.16912).
 
 
 ## 📄 Abstract
@@ -50,11 +50,11 @@ The experiments include evaluations on:
 ### **📂 Repository Structure**
 ```
 📂 root/
-│-- 📁 CIFAR10/ # Predictions from different models on CIFAR-10 dataset
-│-- 📁 ablation_study/ # Evaluation results for ablation experiments
-│-- 📄 README.md # This README file
-│-- 📜 environment.yml # Conda environment setup file
-│-- 📒 eval_epistemic_preds.ipynb # Jupyter Notebook for evaluation
+│-- 📁 CIFAR10/                        # Predictions from different models on CIFAR-10 dataset
+│-- 📁 ablation_study/                 # Evaluation results for ablation experiments
+│-- 📄 README.md                       # This README file
+│-- 📜 environment.yml                 # Conda environment setup file
+│-- 📄 eval_epistemic_preds.ipynb      # Jupyter Notebook for evaluation
 ```
 
 ---
