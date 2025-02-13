@@ -45,6 +45,8 @@ The experiments include evaluations on:
 - **Credal classifiers**
 - **Belief function classifiers**
 
+---
+
 ### **📂 Repository Structure**
 ```
 📂 root
@@ -57,6 +59,7 @@ The experiments include evaluations on:
 ```
 
 ---
+
 ### **📢 Citation**
 If you use this code, please cite our paper:
 
@@ -72,9 +75,11 @@ url={https://openreview.net/forum?id=kXC0Sdf8KN}
 ```
 
 ---
+
 ### **📬 Contact**
 For questions or issues, feel free to open an issue or contact the [author](shireenmohammed67@gmail.com).
 
 ---
+
 ### **⭐ Acknowledgments**
 This research has received funding from the European Union’s Horizon 2020 Research and Innovation program under Grant Agreement No. 964505 (E-pi).
