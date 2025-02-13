@@ -1,4 +1,5 @@
 # A Unified Evaluation Framework for Epistemic Predictions
+[![arXiv](https://img.shields.io/badge/arXiv-2307.05772-b31b1b.svg)](https://arxiv.org/abs/2501.16912)
 
 This repository contains code for the **AISTATS 2025** paper: [A Unified Evaluation Framework for Epistemic Predictions](https://arxiv.org/abs/2501.16912).
 
