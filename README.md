@@ -7,7 +7,6 @@ This repository contains code for the **AISTATS 2025** paper: [A Unified Evaluat
 ## 📄 Abstract
 Predictions of uncertainty-aware models are diverse, ranging from single point estimates (often averaged over prediction samples) to predictive distributions, to set-valued or credal-set representations. We propose a **novel unified evaluation framework** for uncertainty-aware classifiers, applicable to a wide range of model classes. Our framework enables users to **tailor the trade-off between accuracy and precision** of predictions via a custom-designed performance metric. This allows for selecting the **most suitable model** for a given real-world application based on the desired trade-off. Our experiments on **CIFAR-10, MNIST, and CIFAR-100** evaluate Bayesian, ensemble, evidential, deterministic, credal, and belief function classifiers, demonstrating that our metric behaves as intended.
 
----
 
 ## 🚀 Getting Started
 
@@ -30,9 +29,8 @@ Use the eval_epistemic_preds.ipynb notebook to compute the Evaluation Metric.
 jupyter notebook eval_epistemic_preds.ipynb
 ```
 
----
 
-### **📊 Experiments & Datasets**
+## **📊 Experiments & Datasets**
 The framework has been evaluated on the following datasets:
 - **CIFAR-10**
 - **MNIST**
@@ -46,9 +44,9 @@ The experiments include evaluations on:
 - **Credal classifiers**
 - **Belief function classifiers**
 
----
 
-### **📂 Repository Structure**
+
+## **📂 Repository Structure**
 ```
 📂 root/
 │-- 📁 CIFAR10/                        # Predictions from different models on CIFAR-10 dataset
@@ -58,9 +56,9 @@ The experiments include evaluations on:
 │-- 📄 eval_epistemic_preds.ipynb      # Jupyter Notebook for evaluation
 ```
 
----
 
-### **📢 Citation**
+
+## **📢 Citation**
 If you use this code, please cite our paper:
 
 ```
@@ -74,12 +72,12 @@ url={https://openreview.net/forum?id=kXC0Sdf8KN}
 }
 ```
 
----
 
-### **📬 Contact**
+
+## **📬 Contact**
 For questions or issues, feel free to open an issue or contact the [author](shireenmohammed67@gmail.com).
 
----
 
-### **⭐ Acknowledgments**
+
+## **⭐ Acknowledgments**
 This research has received funding from the European Union’s Horizon 2020 Research and Innovation program under Grant Agreement No. 964505 (E-pi).
