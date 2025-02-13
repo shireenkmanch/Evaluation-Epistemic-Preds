@@ -51,38 +51,10 @@ The experiments include evaluations on:
 ```
 📂 root/
 │-- 📁 CIFAR10/ # Predictions from different models on CIFAR-10 dataset
-│ ├── cnn_preds_cifar10.npy # CNN model predictions
-│ ├── creinn_preds_cifar10 # CREINN model predictions
-│ ├── ddu_preds_cifar10.npy # DDU model predictions
-│ ├── de_cifar10_averaged_preds.npy # Deep ensemble averaged predictions
-│ ├── de_preds_cifar10_15.npy # Deep ensemble predictions with 15 models
-│ ├── ecnn_preds_cifar10_mass.npy # Evidential CNN predictions
-│ ├── lbbnn_cifar10_bma_averaged_preds.npy # LBBNN Bayesian Model Averaging predictions
-│ ├── lbbnn_preds_cifar10_100.npy # LBBNN predictions with 100 samples
-│ ├── new_classes.pkl # New class mappings for CIFAR-10
-│ ├── rscnn_preds_cifar10.npy # RSCNN model predictions
-│ ├── test_alpha_cifar10.npy # Alpha values from test set
-│ ├── test_evidence_cifar10.npy # Evidence values from test set
-│ ├── test_preds_cifar10.npy # Final test set predictions
-│
-│-- 📁 ablation_study/ # Results of ablation experiments
-│ ├── eval_de_values_10.npy # Evaluation results for deep ensemble (10 models)
-│ ├── eval_de_values_15.npy # Evaluation results for deep ensemble (15 models)
-│ ├── eval_de_values_20.npy # Evaluation results for deep ensemble (20 models)
-│ ├── eval_de_values_25.npy # Evaluation results for deep ensemble (25 models)
-│ ├── eval_de_values_30.npy # Evaluation results for deep ensemble (30 models)
-│ ├── eval_de_values_5.npy # Evaluation results for deep ensemble (5 models)
-│ ├── eval_lbbnn_values_100.npy # LBBNN evaluation with 100 samples
-│ ├── eval_lbbnn_values_150.npy # LBBNN evaluation with 150 samples
-│ ├── eval_lbbnn_values_200.npy # LBBNN evaluation with 200 samples
-│ ├── eval_lbbnn_values_300.npy # LBBNN evaluation with 300 samples
-│ ├── eval_lbbnn_values_400.npy # LBBNN evaluation with 400 samples
-│ ├── eval_lbbnn_values_50.npy # LBBNN evaluation with 50 samples
-│ ├── eval_lbbnn_values_500.npy # LBBNN evaluation with 500 samples
-│
+│-- 📁 ablation_study/ # Evaluation results for ablation experiments
 │-- 📄 README.md # This README file
 │-- 📜 environment.yml # Conda environment setup file
-│-- eval_epistemic_preds.ipynb # Jupyter Notebook for evaluation
+│-- 📒 eval_epistemic_preds.ipynb # Jupyter Notebook for evaluation
 ```
 
 ---
