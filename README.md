@@ -5,9 +5,7 @@ This repository contains code for the AISTATS 2025 paper: [A Unified Evaluation 
 
 ## 📄 Abstract
 Predictions of uncertainty-aware models are diverse, ranging from single point estimates (often averaged over prediction samples) to predictive distributions, to set-valued or credal-set representations.  
-
 We propose a **novel unified evaluation framework** for uncertainty-aware classifiers, applicable to a wide range of model classes. Our framework enables users to **tailor the trade-off between accuracy and precision** of predictions via a custom-designed performance metric. This allows for selecting the **most suitable model** for a given real-world application based on the desired trade-off.  
-
 Our experiments on **CIFAR-10, MNIST, and CIFAR-100** evaluate Bayesian, ensemble, evidential, deterministic, credal, and belief function classifiers, demonstrating that our metric behaves as intended.
 
 ---
